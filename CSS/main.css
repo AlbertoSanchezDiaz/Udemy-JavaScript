@@ -2,14 +2,7 @@ body {
   background-color: #eee;
 }
 
-.caja {
-  margin: 8px;
-  padding: 8px;
-  border-style: solid;
-  border-width: 20px;
-  border-color: #faa;
-  border-radius: 8px;
-  height: 100px;
-  width: 100px;
-  background-color: #ff0;
+p {
+  color: #222fff;
+  text-align: justify;
 }
