@@ -2,6 +2,6 @@ body {
     background-color: #eee;
 }
 
-p {
-    display: inline;
+img {
+    float: right;
 }
