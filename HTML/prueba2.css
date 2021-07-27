@@ -1,0 +1,12 @@
+.body {
+    background-color: #eee;
+}
+
+p {
+    color: #222fff;
+    text-align: left;
+}
+
+a {
+    text-decoration: line-through;
+}
