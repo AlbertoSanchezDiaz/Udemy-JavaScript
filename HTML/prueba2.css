@@ -2,11 +2,23 @@
     background-color: #eee;
 }
 
-p {
-    color: #222fff;
-    text-align: left;
+a {
+    color: hotpink;
 }
 
-a {
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
     text-decoration: line-through;
+}
+
+a:active {
+    color: black;
 }
