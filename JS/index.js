@@ -47,5 +47,5 @@ const modulo = 10 % 3
 // console.log(modulo);
 
 let num = 5
-num ++
+num --
 console.log(num);
