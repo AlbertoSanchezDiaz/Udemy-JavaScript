@@ -48,4 +48,28 @@ const modulo = 10 % 3
 
 let num = 5
 num --
-console.log(num);
+// console.log(num);
+
+const resultado1  = 5
+
+// console.log(resultado1);
+
+const edad = 5
+
+if (edad > 5 && edad < 15) {
+    // console.log('Puedes entrar a jugar');
+} else {
+    // console.log('No puedes jugar');
+}
+
+function iterar (arg1) {
+    for (let i = 0; i < arg1.length; i++) {
+        console.log(arg1[i]);
+    }    
+}
+
+const numeros = [1,2,3,4,5]
+const nombres = ['Pedro', 'Juan', 'Alberto', 'Alex', 'Buddy']
+
+iterar(numeros)
+iterar(nombres[3])
