@@ -22,5 +22,6 @@ window.onload = () => {
         const todoText = todo.value;
         todo.value = '';
         todos.push(todoText);
+        render()
     }
 }
