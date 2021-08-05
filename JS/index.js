@@ -96,9 +96,10 @@
 // callback(6)
 // sumar(2, 3, callback)
 
-const miFatArrowFunction = (a,b) => a + b
-const otraFAF = (a, b) => {
-    return a + b
-}
-const r = otraFAF(1,2)
-console.log(r);
+//  const miFatArrowFunction = (a,b) => a + b
+// const otraFAF = (a, b) => {
+   // return a + b
+//  }
+// const r = otraFAF(1,2)
+// console.log(r);
+
