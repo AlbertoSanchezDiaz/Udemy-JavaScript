@@ -9,6 +9,7 @@ window.onload = () => {
         todo.value = '';
         todos.push(todoText);
         const todoList = document.getElementById("todo-list");
-        const todosTemplate = todos.map(t => )
+        const todosTemplate = todos.map(t => '<li>' + t + '</li>');
+        todoList.innerHTML = todosTemplate.join('');
     }
 }
